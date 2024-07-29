@@ -1,5 +1,6 @@
 # TED-SCL
-paper:<< A Toxic Euphemisms Detection Framework for Online Social Network Based On Contrastive Learning and Dual-channe Network Augmentationl >> 
+paper:<< A Toxic Euphemisms Detection Framework for Online Social Network Based On Contrastive Learning and Dual-channel Network Augmentationl >> 
+
 We will release our code and datasets here soon.
 The files including:
 1) datasets:train.csv, val.csv, test.csv
